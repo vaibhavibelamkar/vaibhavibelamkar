@@ -4,7 +4,7 @@
 
 </div>
 
-## 📝 About Me :
+## 🧑‍🎓 About Me  :
 
 Hey there! 👋 
 I’m **Vaibhavi Belamkar**, a Computer Science student at **NBNSCOE**, class of 2026.  
@@ -19,23 +19,20 @@ Let's connect and see how we can create something amazing together!
 
 ## 💻 Lifelong Tech Learner 
 
-- Languages: Java, Python, PHP, JavaScript, HTML/CSS, SQL, Dart  
-- Frameworks & Libraries: MERN Stack, Flutter, Bootstrap  
-- Databases: SQL, MongoDB, Firebase  
-- Version Control: Git, GitHub  
-- Continuously improving my skills in **DSA** and building robust web applications.  
+- 🛠️ Languages: Java, Python, PHP, JavaScript, HTML/CSS, SQL, Dart  
+- 📚 Frameworks & Libraries: MERN Stack, Flutter, Bootstrap  
+- 💾 Databases: SQL, MongoDB, Firebase  
+- 🔧 Version Control: Git, GitHub  
+- 🌟 Continuously improving my skills in **DSA** and building robust web applications.  
 
 ## 🔗 Let's Connect  
-
-- LinkedIn: https://www.linkedin.com/in/vaibhavi-belamkar 
-- Gmail: vaibhavi.belamkar22@gmail.com 
-
-## :fire: My Stats :
-
-#### 🚀 GitHub Stats  
-[![GitHub Streak](https://streak-stats.demolab.com?user=vaibhavibelamkar&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavibelamkar&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+- 💼 LinkedIn: https://www.linkedin.com/in/vaibhavi-belamkar 
+- 📧 Gmail: vaibhavi.belamkar22@gmail.com 
 
 #### 🎯 LeetCode Stats  
 ![Leetcode Stats](https://leetcard.jacoblin.cool/vaibhavi_belamkar?theme=dark)
+
+#### 📈 GitHub Stats  
+[![trophy](https://github-profile-trophy.vercel.app/?username=vaibhavibelamkar&theme=darkhub&row=2&column=3&margin-w=20&margin-h=20)](https://github.com/Sharaneshwar/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavibelamkar&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
