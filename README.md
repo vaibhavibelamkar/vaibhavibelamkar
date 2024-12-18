@@ -11,7 +11,7 @@ I’m **Vaibhavi Belamkar**, a Computer Science student at **NBNSCOE**, class of
 
 My journey in tech started from scratch; I initially had little understanding of computers. 
 
-However, my curiosity led me to explore and discover a genuine interest in Coding. As I immersed myself in Programming, I found a deep passion for **Data Structures and Algorithms (DSA) and developed a keen interest in Web Development. **
+However, my curiosity led me to explore and discover a genuine interest in Coding. As I immersed myself in Programming, I found a deep passion for Data Structures and Algorithms (DSA) and developed a keen interest in Web Development. 
 
 Through platforms like LeetCode, HackerRank, I have honed my problem-solving skills and enjoy turning complex challenges into elegant solutions. I thrive on the excitement of building impactful applications and continuously seek opportunities to expand my knowledge and expertise in these fields. 
 
@@ -33,6 +33,6 @@ Let's connect and see how we can create something amazing together!
 ![Leetcode Stats](https://leetcard.jacoblin.cool/vaibhavi_belamkar?theme=dark)
 
 #### 📈 GitHub Stats  
-[![trophy](https://github-profile-trophy.vercel.app/?username=vaibhavibelamkar&theme=darkhub&row=2&column=3&margin-w=20&margin-h=20)](https://github.com/Sharaneshwar/github-profile-trophy)
+[![Vaibhavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavibelamkar&show_icons=true&hide_title=true&hide_rank=true&theme=dark)](https://github.com/vaibhavibelamkar)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavibelamkar&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
