@@ -33,6 +33,6 @@ Let's connect and see how we can create something amazing together!
 ![Leetcode Stats](https://leetcard.jacoblin.cool/vaibhavi_belamkar?theme=dark)
 
 #### 📈 GitHub Stats  
-[![Vaibhavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavibelamkar&show_icons=true&hide_title=true&hide_rank=true&theme=dark)](https://github.com/vaibhavibelamkar)
+<div align="left"> <img src="https://img.shields.io/badge/Achievement-YOLO-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="YOLO Achievement" /> <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-blue?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark Achievement" /> </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavibelamkar&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
