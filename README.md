@@ -17,22 +17,21 @@ Through platforms like LeetCode, HackerRank, I have honed my problem-solving ski
 
 Let's connect and see how we can create something amazing together! 
 
-## 💻 Lifelong Tech Learner 
+## 🛠️ Tools & Technologies
 
-- 🛠️ Languages: Java, Python, PHP, JavaScript, HTML/CSS, SQL, Dart  
+- 💻 Languages: Java, Python, PHP, JavaScript, HTML/CSS, SQL, Dart  
 - 📚 Frameworks & Libraries: MERN Stack, Flutter, Bootstrap  
 - 💾 Databases: SQL, MongoDB, Firebase  
-- 🔧 Version Control: Git, GitHub  
-- 🌟 Continuously improving my skills in **DSA** and building robust web applications.  
+- 🔧 Version Control: Git, GitHub    
 
 ## 🔗 Let's Connect  
 - 💼 LinkedIn: https://www.linkedin.com/in/vaibhavi-belamkar 
 - 📧 Gmail: vaibhavi.belamkar22@gmail.com 
 
-#### 🎯 LeetCode Stats  
+## 🎯 LeetCode Stats  
 ![Leetcode Stats](https://leetcard.jacoblin.cool/vaibhavi_belamkar?theme=dark)
 
-#### 📈 GitHub Stats  
+## 📈 GitHub Stats  
 <div align="left"> <img src="https://img.shields.io/badge/Achievement-YOLO-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="YOLO Achievement" /> <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-blue?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark Achievement" /> </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavibelamkar&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
