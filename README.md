@@ -7,7 +7,7 @@
 ## 🎓 About Me  :
 
 Hey there! 👋 
-I’m **Vaibhavi Belamkar**, a Computer Science student at **NBNSCOE**, class of 2026.  
+I’m **Vaibhavi Belamkar**, a Computer Science student at **NBNSCOE**, batch of 2026.  
 
 My journey in tech started from scratch; I initially had little understanding of computers. 
 
@@ -20,7 +20,7 @@ Let's connect and see how we can create something amazing together!
 ## 🛠️ Tools & Technologies
 
 - 💻 Languages: Java, Python, PHP, JavaScript, HTML/CSS, SQL, Dart  
-- 📚 Frameworks & Libraries: MERN Stack, Flutter, Bootstrap  
+- 📚 Frameworks & Libraries: Node JS, Express JS, React JS, Flutter, Bootstrap  
 - 💾 Databases: SQL, MongoDB, Firebase  
 - 🔧 Version Control: Git, GitHub    
 
