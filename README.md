@@ -4,7 +4,7 @@
 
 </div>
 
-## 🧑‍🎓 About Me  :
+## 🎓 About Me  :
 
 Hey there! 👋 
 I’m **Vaibhavi Belamkar**, a Computer Science student at **NBNSCOE**, class of 2026.  
